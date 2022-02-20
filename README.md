@@ -12,6 +12,7 @@
 * Step1. 選擇PTT版，及對應的Line群組token
 * Step2. get 今日所有文章連結
 * Step3. 根據連結 get 每篇文章內容
-* Step4. 整理資料/傳送訊息
+* Step4. 整理資料/傳送訊息/存成excel(.xlsx)
 ## 備註
-Line notify 要自行去官方設定
+* Line notify 要自行去官方設定
+* 因為是自己學習coding所以其實有很多可以加強的地方，比如在傍晚時八卦版會爬不動
